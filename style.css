@@ -44,7 +44,7 @@ body {
 }
 
 .container #qr-form {
-  margin: 1.3rem 0.9rem;
+  margin: 1rem 0.9rem;
 }
 
 #qr-form input,
@@ -81,7 +81,7 @@ body {
   opacity: 0;
   pointer-events: none;
   border: 1px solid #ccc;
-  padding: 30px 0;
+  padding: 20px 0;
   margin: 20px 15px;
   display: flex;
   align-items: center;
